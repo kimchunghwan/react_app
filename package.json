@@ -1,0 +1,28 @@
+{
+  "name": "kimchunghwan",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "npm": "^6.1.0",
+    "prop-types": "^15.6.1",
+    "react": "^16.4.0",
+    "react-dom": "^16.4.0",
+    "react-lines-ellipsis": "^0.10.3",
+    "react-scripts": "1.1.4",
+    "yarn": "^1.7.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "homepage": "http://keii2k.github.io/movie_app",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}
