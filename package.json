@@ -19,7 +19,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://keii2k.github.io/movie_app",
+  "homepage": "https://kimchunghwan.github.io/react_app/",
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
